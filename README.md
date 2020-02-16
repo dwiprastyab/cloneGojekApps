@@ -1,2 +1,2 @@
 # cloneGojekApps
-clonGojekApps Using React Native
+clone Gojek Apps Using React Native
